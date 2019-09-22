@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Car Garage Finder</string>
+    <string name="address">Dirección: </string>
+</resources>

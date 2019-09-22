@@ -1,0 +1,5 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+    tools:context="cl.carreno.mauricio.cargaragefinder.view.main.MainActivity"
+    tools:keep="@menu/menu_main">
+
+</menu>
